@@ -36,8 +36,8 @@ export class CacheService {
   users: User[] = [
     new User({
       id: 'f55b32d2-4d68-4c1e-a3ca-da9d7d0d92e5',
-      username: 'test@codefactory.ai',
-      password: 'testtest',
+      username: 'test',
+      password: 'test',
       imageUrl: '/logo/codefactory_logo.png',
       basket: [],
     }),
